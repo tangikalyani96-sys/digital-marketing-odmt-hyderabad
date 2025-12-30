@@ -7,7 +7,7 @@ ODMT helps Telugu-speaking learners understand digital marketing concepts in a c
 
 What is ODMT?
 
-ODMT stands for Online Digital Marketing in Telugu. It is a learning approach designed for students, job seekers, working professionals, and business owners who want to learn digital marketing without facing language barriers.
+ODMT stands for[ Online Digital Marketing in Telugu](https://www.odmt.in/). It is a learning approach designed for students, job seekers, working professionals, and business owners who want to learn digital marketing without facing language barriers.
 
 By explaining concepts in Telugu, ODMT makes learning comfortable and helps learners focus on skills rather than language.
 
